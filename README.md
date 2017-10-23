@@ -1,1 +1,5 @@
 # rltsquare_toplinks
+
+Links manager is used to handle frontend links (including the Top links, Footer links and Customer dashboard links) and can add new custom links with frontend label and URL on these three locations. The extension is use to enable/disable frontend top links (My Wishlist, My Account, My Cart, Checkout, Log In), Footer links (Site Map, Search Terms, Advance Search, Order and Return, Contact Us ,RSS) and customer account navigation links ( Account dashboard, Account Information, Address Book, My Orders, Billing Agreement, My Tags, Newsletter Subscription, My Downloadable Products, Recurring Profile, My Products Review, My Wishlist, My Application).It provides ease to users to manage that links from admin instead of changes via the layout updates.
+
+It has also option to add new links on top, footer and customer account navigation.You can specify any landing page or CMS page key along with label of link to show additional links on these three locations. You don't need to add them from layout xml, manage all these links from admin.
